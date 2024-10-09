@@ -17,6 +17,14 @@ span{
     transform: translate(-50%,-50%);
     animation: animate 6s linear;
 }
+h1{
+    display:flex;
+    font-family: "Dancing Script", cursive;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    text-align:center;
+}
 
 @keyframes animate{
     0%{
